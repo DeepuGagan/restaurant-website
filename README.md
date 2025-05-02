@@ -21,3 +21,7 @@ This is a simple and modern style restaurent website built with React JS and Tai
 * Version 1.0 (Current)
     * Initial Release
 
+
+## ©️ License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
